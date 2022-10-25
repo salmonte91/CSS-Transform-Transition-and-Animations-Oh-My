@@ -1,3 +1,4 @@
 main {
-
+    transform: skew(5deg, -10deg) scale(1);
+    width: 100%;
 }
