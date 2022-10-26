@@ -1,3 +1,8 @@
 main {
+<<<<<<< HEAD
     transform: skew(10deg);
+=======
+    transform: skew(5deg, -10deg) scale(1);
+    width: 100%;
+>>>>>>> f64d9b2f6a1ae25399fab560dc8ab29d4ae751ce
 }
